@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="9660b0dd-377e-4666-a7b9-e98356c54d71">
+  <Table name="UsuarioDiagnosticos" />
+  <Table name="PilotTest" />
+</Dependencies>

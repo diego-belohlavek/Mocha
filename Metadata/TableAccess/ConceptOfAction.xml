@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="12836c19-38df-458a-8809-ddbd58549548">
+  <Table name="UsuarioDiagnosticos" />
+  <Table name="ConceptOfAction" />
+</Dependencies>

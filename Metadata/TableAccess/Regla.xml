@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="46b51f01-b493-4a88-bae2-c272b35ced79">
+  <Table name="PreguntaConceptual" />
+  <Table name="Regla" />
+  <Table name="ReglaPreguntaConceptual" />
+</Dependencies>

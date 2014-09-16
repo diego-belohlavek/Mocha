@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="c7281e9a-6946-4136-bf4b-f252489c9cd8">
+  <Table name="OpcionPreguntaConceptual" />
+  <Table name="PreguntaConceptualOpcionPreguntaConceptual" />
+</Dependencies>

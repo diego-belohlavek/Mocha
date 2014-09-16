@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="prgs.xsl"?>
+<Objects>
+   <Charset>iso-8859-1</Charset>
+   <Path>file:///C:/Program Files (x86)/Artech/GeneXus/GeneXusXEv2/</Path>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>RespuestaConceptual</ObjName>
+      <ObjDesc>Conceptual Answer</ObjDesc>
+      <ObjLink>http://localhost:8080/DiagnosticFinalV4Mocha/servlet/respuestaconceptual</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Regla</ObjName>
+      <ObjDesc>Rule</ObjDesc>
+      <ObjLink>http://localhost:8080/DiagnosticFinalV4Mocha/servlet/regla</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>PreguntaDescriptiva</ObjName>
+      <ObjDesc>Descriptive Question</ObjDesc>
+      <ObjLink>http://localhost:8080/DiagnosticFinalV4Mocha/servlet/preguntadescriptiva</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>RespuestaDescriptiva</ObjName>
+      <ObjDesc>Descriptive Answer</ObjDesc>
+      <ObjLink>http://localhost:8080/DiagnosticFinalV4Mocha/servlet/respuestadescriptiva</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Diagnostico</ObjName>
+      <ObjDesc>Diagnostic</ObjDesc>
+      <ObjLink>http://localhost:8080/DiagnosticFinalV4Mocha/servlet/diagnostico</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Usuario</ObjName>
+      <ObjDesc>Users</ObjDesc>
+      <ObjLink>http://localhost:8080/DiagnosticFinalV4Mocha/servlet/usuario</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Result</ObjName>
+      <ObjDesc>Results</ObjDesc>
+      <ObjLink>http://localhost:8080/DiagnosticFinalV4Mocha/servlet/result</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>AlternativeAction</ObjName>
+      <ObjDesc>Alternative Action</ObjDesc>
+      <ObjLink>http://localhost:8080/DiagnosticFinalV4Mocha/servlet/alternativeaction</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>BusinessObject</ObjName>
+      <ObjDesc>Business Object</ObjDesc>
+      <ObjLink>http://localhost:8080/DiagnosticFinalV4Mocha/servlet/businessobject</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>ConceptOfAction</ObjName>
+      <ObjDesc>Concept Of Action</ObjDesc>
+      <ObjLink>http://localhost:8080/DiagnosticFinalV4Mocha/servlet/conceptofaction</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>PilotTest</ObjName>
+      <ObjDesc>Pilot Test</ObjDesc>
+      <ObjLink>http://localhost:8080/DiagnosticFinalV4Mocha/servlet/pilottest</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>Login</ObjName>
+      <ObjDesc>Login</ObjDesc>
+      <ObjLink>http://localhost:8080/DiagnosticFinalV4Mocha/servlet/login</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WWOpcionPreguntaConceptual</ObjName>
+      <ObjDesc>Work With Conceptual Question Options</ObjDesc>
+      <ObjLink>http://localhost:8080/DiagnosticFinalV4Mocha/servlet/wwopcionpreguntaconceptual</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WWPreguntaDescriptiva</ObjName>
+      <ObjDesc>Work With Pregunta Descriptiva</ObjDesc>
+      <ObjLink>http://localhost:8080/DiagnosticFinalV4Mocha/servlet/wwpreguntadescriptiva</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WWPreguntaConceptual</ObjName>
+      <ObjDesc>Work With Conceptual Question</ObjDesc>
+      <ObjLink>http://localhost:8080/DiagnosticFinalV4Mocha/servlet/wwpreguntaconceptual</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>AdminArea</ObjName>
+      <ObjDesc>Admin Area</ObjDesc>
+      <ObjLink>http://localhost:8080/DiagnosticFinalV4Mocha/servlet/adminarea</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>Home</ObjName>
+      <ObjDesc>Home</ObjDesc>
+      <ObjLink>http://localhost:8080/DiagnosticFinalV4Mocha/servlet/home</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>Muestra</ObjName>
+      <ObjDesc>Muestra</ObjDesc>
+      <ObjLink>http://localhost:8080/DiagnosticFinalV4Mocha/servlet/muestra</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>RespuestaConceptualForm</ObjName>
+      <ObjDesc>Respuesta Conceptual Form</ObjDesc>
+      <ObjLink>http://localhost:8080/DiagnosticFinalV4Mocha/servlet/respuestaconceptualform</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WWSeccion</ObjName>
+      <ObjDesc>Work With Section</ObjDesc>
+      <ObjLink>http://localhost:8080/DiagnosticFinalV4Mocha/servlet/wwseccion</ObjLink>
+   </Object>
+</Objects>

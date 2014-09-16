@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="2910983b-d195-456f-b469-66589d5c2c0f">
+  <Table name="RespuestaConceptual" />
+  <Table name="RespuestaDescriptiva" />
+  <Table name="UsuarioDiagnosticos" />
+  <Table name="AlternativeAction" />
+  <Table name="BusinessObject" />
+  <Table name="ConceptOfAction" />
+  <Table name="PilotTest" />
+</Dependencies>
